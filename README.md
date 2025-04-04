@@ -1,5 +1,5 @@
-# scripts
-Store some of your own scripts, grease monkey scripts and OS X scripts.
+# 脚本仓库
+存储一些自己写的脚本,日常用到的
 
 #### 1.Hide Bilibili Download Client Button: [链接](https://greasyfork.org/en/scripts/531801-hide-bilibili-download-client-button)
 **简介:**
