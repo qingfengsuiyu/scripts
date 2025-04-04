@@ -1,7 +1,7 @@
 # scripts
 Store some of your own scripts, grease monkey scripts and OS X scripts.
 
-##### 1.Hide Bilibili Download Client Button: [链接](https://greasyfork.org/en/scripts/531801-hide-bilibili-download-client-button)
+#### 1.Hide Bilibili Download Client Button: [链接](https://greasyfork.org/en/scripts/531801-hide-bilibili-download-client-button)
 **简介:**
 bilibili页面去除多余标签的油猴脚本,使页面保持简洁.
 优化了部分页面的css样式.
